@@ -26,7 +26,7 @@ const Specification = ({data}) => {
           </div>
           <div>
             <p className="text-gray-500">Room Type</p>
-            <p className="text-xl font-bold">{data.room}</p>
+            <p className="text-xl font-bold">{data.Room}</p>
           </div>
         </div>
       </div>
