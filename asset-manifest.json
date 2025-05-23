@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/mansio_assignement/static/css/main.e2072bba.css",
-    "main.js": "/mansio_assignement/static/js/main.6fc409ae.js",
+    "main.js": "/mansio_assignement/static/js/main.679b487f.js",
     "static/js/453.cd808b5a.chunk.js": "/mansio_assignement/static/js/453.cd808b5a.chunk.js",
     "static/media/background.png": "/mansio_assignement/static/media/background.9f5d657621c5d33e6711.png",
     "static/media/flatImage.jpg": "/mansio_assignement/static/media/flatImage.0cf0feccb4a47f873448.jpg",
@@ -10,11 +10,11 @@
     "static/media/flatemate2.png": "/mansio_assignement/static/media/flatemate2.961110bc715554ee495d.png",
     "index.html": "/mansio_assignement/index.html",
     "main.e2072bba.css.map": "/mansio_assignement/static/css/main.e2072bba.css.map",
-    "main.6fc409ae.js.map": "/mansio_assignement/static/js/main.6fc409ae.js.map",
+    "main.679b487f.js.map": "/mansio_assignement/static/js/main.679b487f.js.map",
     "453.cd808b5a.chunk.js.map": "/mansio_assignement/static/js/453.cd808b5a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e2072bba.css",
-    "static/js/main.6fc409ae.js"
+    "static/js/main.679b487f.js"
   ]
 }
