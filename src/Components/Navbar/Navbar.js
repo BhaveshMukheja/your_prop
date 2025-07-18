@@ -12,11 +12,12 @@ const Navbar = () => {
       <nav class="bg-white border-gray-200 border-b-2 border-gray-300">
         <div class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-2">
           <a
-            href="https://mansio.ai/"
+            href="https://github.com/BhaveshMukheja/mansio_assignment"
             target="blank"
             class="flex items-center space-x-3 rtl:space-x-reverse"
           >
-            <img src={logo} alt="Company Logo" className="w-36" />
+            {/* <img src={logo} alt="Company Logo" className="w-36" /> */}
+            <span className="text-xl font-bold">Your <span className="text-brand-logo">Prop</span> </span>
           </a>
           <button
             data-collapse-toggle="navbar-default"
